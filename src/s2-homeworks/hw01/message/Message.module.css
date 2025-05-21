@@ -23,9 +23,9 @@
     box-shadow: 0 1px 2px 0 rgba(29, 33, 38, 0.1),0 5px 20px 0 rgba(29, 33, 38, 0.03);
     background: rgb(0, 102, 204);
     padding: 8px 12px 8px 12px;
-    border-top-right-radius: 16px;
-    border-top-left-radius: 16px;
-    border-bottom-left-radius: 16px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
     position: relative;
 }
 
@@ -36,6 +36,7 @@
     right: -8px;
     border-bottom: 16px solid rgb(0, 102, 204);
     border-right: 10px solid transparent;
+    filter: drop-shadow(0px 1px 1px rgba(29, 33, 38, 0.1));
 }
 
 .name {
@@ -47,10 +48,15 @@
 }
 
 .messageText {
+    text-align: right;
     font-family: "Montserrat Variable", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 20px;
+    overflow: hidden;
+    white-space: pre-wrap;
+    max-width: 527px;
+    overflow-wrap: break-word;
 }
 
 .time {

@@ -23,23 +23,25 @@
     box-shadow: 0px 1px 2px 0px rgba(29, 33, 38, 0.1),0px 5px 20px 0px rgba(29, 33, 38, 0.03);
     background: rgb(245, 247, 251);
     padding: 8px 12px 8px 12px;
-    border-top-right-radius: 16px;
-    border-bottom-right-radius: 16px;
-    border-top-left-radius: 16px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 8px;
     position: relative;
 }
 
 .friendText:after {
     content: '';
     position: absolute;
+    z-index: 1;
     bottom: 0;
     left: -8px;
     border-bottom: 16px solid rgb(245, 247, 251);
-    box-shadow: 0px 5px 20px 0px rgba(29, 33, 38, 0.03);
     border-left: 10px solid transparent;
+    filter: drop-shadow(-1px 1px 1px rgba(29, 33, 38, 0.1));
 }
 
 .friendName {
+    text-align: left;
     font-size: 18px;
     font-weight: 600;
     line-height: 22px;
@@ -48,6 +50,7 @@
 }
 
 .friendMessageText {
+    text-align: left;
     font-family: "Montserrat Variable", sans-serif;
     font-size: 16px;
     font-weight: 400;
