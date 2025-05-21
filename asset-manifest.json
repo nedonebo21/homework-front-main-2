@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/homework-front-main-2/static/css/main.e2c0627a.css",
+    "main.css": "/homework-front-main-2/static/css/main.5017baf3.css",
     "main.js": "/homework-front-main-2/static/js/main.b7560dcb.js",
     "static/js/787.66cb4309.chunk.js": "/homework-front-main-2/static/js/787.66cb4309.chunk.js",
     "static/media/montserrat-latin-ext-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-latin-ext-wght-normal.e82538774f550ca997db.woff2",
@@ -10,12 +10,12 @@
     "static/media/montserrat-cyrillic-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-cyrillic-wght-normal.2d3f60b3651996e1e1b9.woff2",
     "static/media/montserrat-vietnamese-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-vietnamese-wght-normal.f7d3e187fbfa74d13432.woff2",
     "index.html": "/homework-front-main-2/index.html",
-    "main.e2c0627a.css.map": "/homework-front-main-2/static/css/main.e2c0627a.css.map",
+    "main.5017baf3.css.map": "/homework-front-main-2/static/css/main.5017baf3.css.map",
     "main.b7560dcb.js.map": "/homework-front-main-2/static/js/main.b7560dcb.js.map",
     "787.66cb4309.chunk.js.map": "/homework-front-main-2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2c0627a.css",
+    "static/css/main.5017baf3.css",
     "static/js/main.b7560dcb.js"
   ]
 }
