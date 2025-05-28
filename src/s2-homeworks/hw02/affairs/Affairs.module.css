@@ -2,6 +2,7 @@
     display: flex;
     gap: 24px;
     margin-bottom: 32px;
+    margin-top: 7px;
 }
 
 .all {
@@ -26,11 +27,11 @@
     background: transparent;
     color: var(--color);
 
-    border: 1px solid var(--color);
+    border: 1.5px solid var(--color);
     border-radius: 15px;
     outline: none;
 
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Variable', sans-serif;
     font-weight: 600;
     font-size: 14px;
     line-height: 20px;
@@ -49,7 +50,12 @@
 
 .affairs {
     display: flex;
-    gap: 17px;
+    flex-direction: column;
+    row-gap: 17px;
+    column-gap: 24px;
     flex-wrap: wrap;
     max-width: 450px;
+}
+.buttonContainer:has(.all.active) + .affairs{
+    flex-direction: row;
 }

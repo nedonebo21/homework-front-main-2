@@ -1,9 +1,12 @@
 .App {
     --header_height: 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
 }
 
 .container {
-    margin: 131px auto 0 auto;
+    /*margin: 131px auto 0 auto;*/
 
 }
 
@@ -12,6 +15,15 @@
     border-bottom: 1px solid rgb(217, 217, 217);
 
     padding: 25px 400px 32px 400px;
+}
+.hw2 {
+    border-top: 1px solid rgb(217, 217, 217);
+    border-bottom: 1px solid rgb(217, 217, 217);
+    min-height: 300px;
+    padding: 25px 400px 32px 400px;
+}
+.hw2Container{
+    padding-bottom: 40px;
 }
 
 .hwTitle {
