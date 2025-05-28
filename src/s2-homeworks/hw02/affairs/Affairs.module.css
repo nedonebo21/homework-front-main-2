@@ -35,12 +35,16 @@
     font-weight: 600;
     font-size: 14px;
     line-height: 20px;
+    transition: .3s;
     cursor: pointer;
 }
 
 .button:active {
     background: var(--color);
     color: white;
+}
+.button:hover {
+    box-shadow: inset 0 0 2px var(--color);
 }
 
 .active {
@@ -51,8 +55,8 @@
 .affairs {
     display: flex;
     flex-direction: column;
-    row-gap: 17px;
-    column-gap: 24px;
+    row-gap: 24px;
+    column-gap: 17px;
     flex-wrap: wrap;
     max-width: 450px;
 }
