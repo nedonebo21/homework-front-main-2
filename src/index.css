@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+input {
+    outline: 0;
+}
 body {
     margin: 0;
     font-family: 'Montserrat Variable', sans-serif;

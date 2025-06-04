@@ -1,35 +1,101 @@
 .greetingForm {
+    display: grid;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 7px;
 }
 
 .inputAndButtonContainer {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
 }
 
 .error {
+    color: rgb(204, 0, 0);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0;
+    text-align: left;
+
+    margin-top: 7px;
 }
 
 .input {
+    width: 372px;
+    height: 36px;
+    padding: 8px 12px;
+
+    box-sizing: border-box;
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 5px;
+
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat Variable', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0;
+    text-align: left;
+
+    transition: .3s;
 }
 
-.input:focus {
+.input:focus:not(.errorInput) {
+    border-color: rgba(0, 0, 0, 0.5);
 }
 
 .errorInput {
+    border-color: rgb(204, 0, 0);
 }
 
 .button {
+    border: none;
+    width: 78px;
+    height: 36px;
+    gap: 10px;
+    padding: 5px 24px 5px 24px;
+
+    border-radius: 3px;
+    background: rgb(0, 102, 204);
+
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat Variable', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0;
+    cursor: pointer;
+    transition: .3s;
 }
 
 .button:focus {
+    background: rgb(0, 77, 159);
 }
 
-.button:active {
+.button:active:not(:disabled) {
+    background: rgb(0, 77, 159);
 }
 
 .button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
 }
 
 .text {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0;
+    text-align: left;
+    margin-bottom: 9px;
 }
 
 .greeting {
+    overflow: hidden;
+    white-space: pre-wrap;
+    max-width: 372px;
+    overflow-wrap: break-word;
 }
