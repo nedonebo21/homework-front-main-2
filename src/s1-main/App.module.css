@@ -17,17 +17,23 @@
     min-height: 300px;
     padding: 25px 400px 32px 400px;
 }
+.hw3{
+    border-top: 1px solid rgb(217, 217, 217);
+    border-bottom: 1px solid rgb(217, 217, 217);
+    min-height: 300px;
+    padding: 90px 100px 50px 100px;
+}
 .hw4 {
     border-top: 1px solid rgb(217, 217, 217);
     border-bottom: 1px solid rgb(217, 217, 217);
     min-height: 300px;
-    padding: 90px 80px 50px 80px;
+    padding: 90px 100px 50px 100px;
 }
 .hw2 {
     border-top: 1px solid rgb(217, 217, 217);
     border-bottom: 1px solid rgb(217, 217, 217);
-    min-height: 300px;
-    padding: 25px 400px 32px 400px;
+    min-height: 400px;
+    padding: 90px 100px 50px 100px;
 }
 .hw2Container{
     padding-bottom: 40px;

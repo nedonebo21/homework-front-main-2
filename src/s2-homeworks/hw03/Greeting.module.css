@@ -1,7 +1,7 @@
 .greetingForm {
     display: grid;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     padding-top: 7px;
 }
 
