@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/homework-front-main-2/static/css/main.270c43ec.css",
-    "main.js": "/homework-front-main-2/static/js/main.f280f3de.js",
+    "main.css": "/homework-front-main-2/static/css/main.a8ca6edb.css",
+    "main.js": "/homework-front-main-2/static/js/main.571061f9.js",
     "static/js/787.66cb4309.chunk.js": "/homework-front-main-2/static/js/787.66cb4309.chunk.js",
     "static/media/montserrat-latin-ext-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-latin-ext-wght-normal.e82538774f550ca997db.woff2",
     "static/media/avatar.png": "/homework-front-main-2/static/media/avatar.d947cb9d0d13765666b6.png",
@@ -9,13 +9,14 @@
     "static/media/montserrat-cyrillic-ext-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-cyrillic-ext-wght-normal.a37a0a99fe7114b059fc.woff2",
     "static/media/montserrat-cyrillic-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-cyrillic-wght-normal.2d3f60b3651996e1e1b9.woff2",
     "static/media/montserrat-vietnamese-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-vietnamese-wght-normal.f7d3e187fbfa74d13432.woff2",
+    "static/media/checked.svg": "/homework-front-main-2/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/homework-front-main-2/index.html",
-    "main.270c43ec.css.map": "/homework-front-main-2/static/css/main.270c43ec.css.map",
-    "main.f280f3de.js.map": "/homework-front-main-2/static/js/main.f280f3de.js.map",
+    "main.a8ca6edb.css.map": "/homework-front-main-2/static/css/main.a8ca6edb.css.map",
+    "main.571061f9.js.map": "/homework-front-main-2/static/js/main.571061f9.js.map",
     "787.66cb4309.chunk.js.map": "/homework-front-main-2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.270c43ec.css",
-    "static/js/main.f280f3de.js"
+    "static/css/main.a8ca6edb.css",
+    "static/js/main.571061f9.js"
   ]
 }
