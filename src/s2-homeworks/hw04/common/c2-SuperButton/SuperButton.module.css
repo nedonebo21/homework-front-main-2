@@ -17,12 +17,15 @@
 }
 
 .disabled {
-    background: rgb(0, 77, 153);
+    background: rgb(204, 20, 57);
     color: rgb(0, 46, 92);
     opacity: 0.5;
 }
 
 .secondary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border: 1px solid rgb(0, 102, 204);
     background: transparent;
     color: rgb(0, 102, 204);
