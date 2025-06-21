@@ -11,7 +11,7 @@
     font-weight: 600;
     line-height: 20px;
     letter-spacing: 0;
-    text-align: left;
+    text-align: center;
     cursor: pointer;
     transition: .3s;
 }
@@ -29,9 +29,7 @@
     border: 1px solid rgb(0, 102, 204);
     background: transparent;
     color: rgb(0, 102, 204);
-    width: 176px;
-    height: 30px;
-    text-align: center;
+    min-width: 132px;
 }
 
 .default {
