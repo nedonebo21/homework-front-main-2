@@ -1,10 +1,26 @@
 .spanBlock {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 .span {
+  color: rgb(0, 128, 255);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0;
 }
 
 .input {
+  font-family: "Montserrat Variable", sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0;
+  padding: 8px 24px 8px 24px;
+  max-width: 276px;
 }
 
 .pen {
