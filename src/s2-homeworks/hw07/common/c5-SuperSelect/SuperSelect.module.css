@@ -1,9 +1,28 @@
 .select {
+  padding: 5px 10px;
+  outline: none;
+  min-width: 180px;
+  border: 1px solid rgb(194, 194, 194);
+  border-radius: 2px;
+
+  color: rgb(0, 0, 0);
+  font-family: 'Montserrat Variable', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 0;
+  transition: .3s;
 }
 
 .select:focus {
+  border: 1px solid rgb(0, 0, 0);
 }
 
+.option {
+  background-color: #fff;
+  color: rgb(0, 0, 0);
+}
 
 .option:hover {
+  background-color: rgb(0, 0, 0);
 }
