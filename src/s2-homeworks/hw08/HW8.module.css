@@ -43,14 +43,15 @@
   letter-spacing: 0;
 }
 .nameCol {
-  width: 303px;
-  padding-left: 17px;
-
-  padding-top: 16px;
-  padding-bottom: 16px;
+  max-width: 303px;
+  padding: 16px 10px 16px 17px;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
 }
 
 .ageCol {
   width: 303px;
   font-weight: 700;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
 }
