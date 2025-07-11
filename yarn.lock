@@ -1318,6 +1318,11 @@
   resolved "https://registry.yarnpkg.com/@fontsource-variable/montserrat/-/montserrat-5.2.5.tgz#680c8c79bb1a96459f80e6f109f39b7b77cc0bdd"
   integrity sha512-Mfg/AiXwhPLAAgLCqzugFUs/PLprbHzXMhPVrf35q5od4/wHjVqtm0bI000tKGUGDZ3gDpId/+cqufcYHAAAEQ==
 
+"@fontsource-variable/roboto@^5.2.6":
+  version "5.2.6"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/roboto/-/roboto-5.2.6.tgz#1a618f7a9c70e756214352ce2c3864d1c61001dc"
+  integrity sha512-bKgCwHdRcUcHPmypU5oih+OnTQUnZ7XBoztJ0W2X+m7WRYITTWnnnQBDPAKbOwiemU/yJHGg+lD03M60BGuuGg==
+
 "@humanwhocodes/config-array@^0.11.6":
   version "0.11.7"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.7.tgz#38aec044c6c828f6ed51d5d7ae3d9b9faf6dbb0f"

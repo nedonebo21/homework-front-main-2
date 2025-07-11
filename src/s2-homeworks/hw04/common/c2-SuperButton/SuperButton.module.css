@@ -1,10 +1,12 @@
 .button {
-    border: none;
+    display: flex;
+    align-items: center;
     font-family: 'Montserrat Variable', sans-serif;
     height: 30px;
     border-radius: 3px;
     padding: 5px 24px 5px 24px;
     color: white;
+    border: 1px solid transparent;
 
     font-size: 14px;
     font-weight: 600;
