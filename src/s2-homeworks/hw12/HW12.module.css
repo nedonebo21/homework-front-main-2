@@ -18,6 +18,7 @@ html {
     color: var(--color);
 }
 
-.select {
-
+[data-theme='3'] .select {
+    color: #fff;
+    border-color: #fff;
 }
