@@ -1,5 +1,5 @@
 .input:focus {
-    border: 1px solid rgb(100, 100, 100);
+    border-color: #0066CC;
 }
 
 .input {
@@ -10,7 +10,7 @@
     padding: 8px;
     box-sizing: border-box;
     border: 1px solid rgb(209, 209, 209);
-    border-radius: 5px;
+    border-radius: 2px;
 }
 
 .inputWrapper {

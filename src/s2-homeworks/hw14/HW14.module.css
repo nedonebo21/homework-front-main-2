@@ -1,7 +1,18 @@
 .tech {
-
+  font-family: 'Roboto Variable', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0;
 }
 
 .loading {
+  font-family: 'Roboto Variable', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 100%;
+  letter-spacing: 0;
+  color: #4D4D4D;
 
+  position: absolute;
+  right: 67.8%;
 }
