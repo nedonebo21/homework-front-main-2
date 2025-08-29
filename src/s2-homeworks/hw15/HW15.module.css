@@ -9,10 +9,14 @@
 
 .techHeader {
     width: 50vw;
+    display: flex;
+    align-items: center;
 }
 
 .developerHeader {
     font-family: 'Roboto Variable', sans-serif;
+    display: flex;
+    align-items: center;
 }
 
 .row {
@@ -48,6 +52,8 @@
 }
 .disabled {
     opacity: 0.4;
+    pointer-events: none;
+    user-select: none;
 }
 
 .loading {
