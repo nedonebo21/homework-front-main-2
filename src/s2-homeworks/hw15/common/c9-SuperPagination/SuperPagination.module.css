@@ -1,11 +1,15 @@
 .pagination {
-    display: flex;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  margin-bottom: 36px;
+  font-family: 'Roboto Variable', sans-serif;
 }
 
 .text1 {
-
+  margin-right: 8px;
 }
 
 .text2 {
-
+  margin-left: 4px;
 }

@@ -1,9 +1,10 @@
 .tech {
     width: 50vw;
+    font-family: 'Roboto Variable', sans-serif;
 }
 
 .developer {
-
+    font-family: 'Roboto Variable', sans-serif;
 }
 
 .techHeader {
@@ -11,17 +12,47 @@
 }
 
 .developerHeader {
-
+    font-family: 'Roboto Variable', sans-serif;
 }
 
 .row {
     display: flex;
+    padding: 12px 15px;
+
+    color: rgba(0, 0, 0, 1);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0;
+}
+
+.row:not(:last-child){
+    border-bottom: 1px solid rgba(229, 229, 229, 1);
 }
 
 .rowHeader {
     display: flex;
+    border-radius: 2px;
+    background: rgba(229, 229, 229, 1);
+
+    font-family: 'Roboto Variable', sans-serif;
+    color: rgba(0, 0, 0, 1);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: 0;
+    padding: 10px 15px;
+}
+.rowHeader span{
+    margin-left: 5px;
+}
+.disabled {
+    opacity: 0.4;
 }
 
 .loading {
-
+    position: absolute;
+    top: 92%;
+    right: 50%;
+    z-index: 10;
 }

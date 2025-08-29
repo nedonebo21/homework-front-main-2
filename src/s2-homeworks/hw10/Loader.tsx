@@ -1,3 +1,6 @@
 import s from './Loader.module.css'
 
-export const Loader = () => <div className={s.loader}/>
+type LoaderPropsType = {
+  className?: string
+}
+export const Loader = ({className}: LoaderPropsType) => <div className={className ? `${className} ${s.loader}` : s.loader}/>
