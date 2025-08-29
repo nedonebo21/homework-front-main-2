@@ -1,19 +1,28 @@
 {
   "files": {
-    "main.css": "/homework-front-main-2/static/css/main.24d0938a.css",
-    "main.js": "/homework-front-main-2/static/js/main.e3f082f0.js",
+    "main.css": "/homework-front-main-2/static/css/main.14509b85.css",
+    "main.js": "/homework-front-main-2/static/js/main.7b8ef51f.js",
     "static/js/787.66cb4309.chunk.js": "/homework-front-main-2/static/js/787.66cb4309.chunk.js",
     "static/media/montserrat-latin-ext-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-latin-ext-wght-normal.e82538774f550ca997db.woff2",
     "static/media/avatar.png": "/homework-front-main-2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/roboto-math-wght-normal.woff2": "/homework-front-main-2/static/media/roboto-math-wght-normal.641af3820cbbcb87a644.woff2",
+    "static/media/roboto-latin-wght-normal.woff2": "/homework-front-main-2/static/media/roboto-latin-wght-normal.d27b0fe5167938aa0821.woff2",
     "static/media/montserrat-latin-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-latin-wght-normal.551b13d3bdcbbd92d8a7.woff2",
     "static/media/200.svg": "/homework-front-main-2/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
+    "static/media/roboto-cyrillic-ext-wght-normal.woff2": "/homework-front-main-2/static/media/roboto-cyrillic-ext-wght-normal.de0c6601fa3c21635548.woff2",
     "static/media/montserrat-cyrillic-ext-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-cyrillic-ext-wght-normal.a37a0a99fe7114b059fc.woff2",
+    "static/media/roboto-latin-ext-wght-normal.woff2": "/homework-front-main-2/static/media/roboto-latin-ext-wght-normal.3aec290a3ccfd74dc75e.woff2",
     "static/media/error.svg": "/homework-front-main-2/static/media/error.5a3135f381b00b53044eff200e725391.svg",
     "static/media/montserrat-cyrillic-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-cyrillic-wght-normal.2d3f60b3651996e1e1b9.woff2",
+    "static/media/roboto-cyrillic-wght-normal.woff2": "/homework-front-main-2/static/media/roboto-cyrillic-wght-normal.98143bb168e1622fcf52.woff2",
     "static/media/500.svg": "/homework-front-main-2/static/media/500.adbc5f265f6f3c1fb9c5633ffe365afa.svg",
+    "static/media/roboto-symbols-wght-normal.woff2": "/homework-front-main-2/static/media/roboto-symbols-wght-normal.c5cd32ef1611fd8054ae.woff2",
     "static/media/400.svg": "/homework-front-main-2/static/media/400.8baa1b795048b6fa13ff8d30800aa1b1.svg",
     "static/media/404.svg": "/homework-front-main-2/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/roboto-greek-wght-normal.woff2": "/homework-front-main-2/static/media/roboto-greek-wght-normal.b104e2827cc0c0d480aa.woff2",
     "static/media/montserrat-vietnamese-wght-normal.woff2": "/homework-front-main-2/static/media/montserrat-vietnamese-wght-normal.f7d3e187fbfa74d13432.woff2",
+    "static/media/roboto-vietnamese-wght-normal.woff2": "/homework-front-main-2/static/media/roboto-vietnamese-wght-normal.8e8d3dc5c1755c044162.woff2",
+    "static/media/roboto-greek-ext-wght-normal.woff2": "/homework-front-main-2/static/media/roboto-greek-ext-wght-normal.9b5735a40ff01027a224.woff2",
     "static/media/loading-100.svg": "/homework-front-main-2/static/media/loading-100.92246589e0a81df5d8b8.svg",
     "static/media/loading-start.svg": "/homework-front-main-2/static/media/loading-start.d583247c86b159a00d6b.svg",
     "static/media/loading-75.svg": "/homework-front-main-2/static/media/loading-75.88d6d66812f79388a5f4.svg",
@@ -23,12 +32,15 @@
     "static/media/checked.svg": "/homework-front-main-2/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/homework-front-main-2/index.html",
     "static/media/burger.svg": "/homework-front-main-2/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.24d0938a.css.map": "/homework-front-main-2/static/css/main.24d0938a.css.map",
-    "main.e3f082f0.js.map": "/homework-front-main-2/static/js/main.e3f082f0.js.map",
+    "static/media/none-icon.svg": "/homework-front-main-2/static/media/none-icon.a658633116cf7c895086af94171c26c0.svg",
+    "static/media/down-icon.svg": "/homework-front-main-2/static/media/down-icon.f0b1eac9693db9ba5671864500e9bcd8.svg",
+    "static/media/up-icon.svg": "/homework-front-main-2/static/media/up-icon.2230b40f4f5d7cadac47ea2f0d5c4fde.svg",
+    "main.14509b85.css.map": "/homework-front-main-2/static/css/main.14509b85.css.map",
+    "main.7b8ef51f.js.map": "/homework-front-main-2/static/js/main.7b8ef51f.js.map",
     "787.66cb4309.chunk.js.map": "/homework-front-main-2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24d0938a.css",
-    "static/js/main.e3f082f0.js"
+    "static/css/main.14509b85.css",
+    "static/js/main.7b8ef51f.js"
   ]
 }
